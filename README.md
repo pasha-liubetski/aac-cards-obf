@@ -1,4 +1,4 @@
-# aac-cards-obf
+# Карточки АДК в .obz
 
 Карточки __Альтернативной и дополненной коммуникации (АДК) (англ. — Alternative and Augmentative Communication, AAC)__ в формате [OpenBoard](https://www.openboardformat.org/). Карточки созданы в программе [CoughDrop](https://www.coughdrop.com/). Формат __.obz__ поддерживается в том числе программой [Optikey Symbol](http://optikey.org/applications/optikey-symbol).
 
@@ -23,3 +23,25 @@ __Лицензия:__ [Creative Commons BY-SA 4.0](https://creativecommons.org/l
 - __Автор пиктограмм:__ Sergio Palao. Источник: ARASAAC (<http://www.arasaac.org>). Лицензия: CC (BY-NC-SA). Владелец: Правительство Арагона (Испания).
 
 ![](4cards.png)
+
+## Настройка Optikey Symbol
+
+1. Кликните по экрану правой кнопкой мыши, выберите пункт __Management Console (Settings)__ / __Консоль Управления (Настройки)__ (первый в списке).
+
+    ![](./settings_1.png)
+
+2. В разделе __Words__ поменяйте __Keyboard language__ и __User interface language__ на __Russian (Russia) / Русский (Россия)__.
+
+    ![](./settings_2.png)
+
+3. В разделе __Extra features__ в подразделе __COMMUNIKATE__ поставьте галочку __Произнести текст при выборе CommuniKate__ и нажмите кнопку __"Поиск"__.
+
+    ![](./settings_3.png)
+  
+4. Выберите нужный __.obz-файл__ и нажмите __"Открыть"__.
+
+    ![](./settings_4.png)
+
+5. Нажимаете OK. Программа перезапустится и откроет нужный набор карточек.
+
+    ![](./settings_5.png)
