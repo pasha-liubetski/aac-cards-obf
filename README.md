@@ -31,24 +31,46 @@ __Лицензия:__ [Creative Commons BY-SA 4.0](https://creativecommons.org/l
 
 ![](AAC-cards-OBF.png)
 
-## Настройка Optikey Symbol
+## Как открывать .OBZ-файлы в Optikey Symbol
 
 1. Кликните по экрану правой кнопкой мыши, выберите пункт __Management Console (Settings)__ / __Консоль Управления (Настройки)__ (первый в списке).
 
-    ![](./settings_1.png)
+    ![](./optikey_1.png)
 
 2. В разделе __Words__ поменяйте __Keyboard language__ и __User interface language__ на __Russian (Russia) / Русский (Россия)__.
 
-    ![](./settings_2.png)
+    ![](./optikey_2.png)
 
 3. В разделе __Extra features__ в подразделе __COMMUNIKATE__ поставьте галочку __Произнести текст при выборе CommuniKate__ и нажмите кнопку __"Поиск"__.
 
-    ![](./settings_3.png)
+    ![](./optikey_3.png)
   
 4. Выберите нужный __.obz-файл__ и нажмите __"Открыть"__.
 
-    ![](./settings_4.png)
+    ![](./optikey_4.png)
 
-5. Нажимаете __OK__. Программа перезапустится и откроет нужный набор карточек.
+5. Нажмите __OK__. Программа перезапустится и откроет нужный набор карточек.
 
-    ![](./settings_5.png)
+    ![](./optikey_5.png)
+
+## Как экспортировать карточки CoughDrop в .OBZ
+
+1. Если вы находитесь в **Режиме разговора (Speak mode)**, выйдите из него: **⚙ → Exit Speak Mode**
+
+    ![](./coughdrop_1.png)
+
+2. **More → Other Actions**.
+
+    ![](./coughdrop_2.png)
+
+3. Нажмите кнопку **Download Board**.
+
+    ![](./coughdrop_3.png)
+
+4. Нажмите кнопку **Download full board set**.
+
+    ![](./coughdrop_4.png)
+
+5. Нажмите на ссылку **Download board(s) to your computer**.
+
+    ![](./coughdrop_5.png)
